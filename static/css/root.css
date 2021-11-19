@@ -1,0 +1,15 @@
+
+a, span, h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Oracle Sans' !important;
+    color: aliceblue !important;
+}
+.content {
+    font-family: Oracle Sans !important;
+    
+}
+h1 {
+    font-weight: 500 !important;
+}
+
+
+

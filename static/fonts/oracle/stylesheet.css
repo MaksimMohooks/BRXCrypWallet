@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('/static/fonts/oracle/300.ttf');
+    src: local('Oracle Sans Medium'), local('OracleSans-Medium'),
+        url('/static/fonts/oracle/300.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('/static/fonts/oracle/400.ttf');
+    src: local('Oracle Sans Medium'), local('OracleSans-Medium'),
+        url('/static/fonts/oracle/400.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('/static/fonts/oracle/500.ttf');
+    src: local('Oracle Sans Medium'), local('OracleSans-Medium'),
+        url('/static/fonts/oracle/400.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('/static/fonts/oracle/600.ttf');
+    src: local('Oracle Sans Bold'), local('OracleSans-Bold'),
+        url('/static/fonts/oracle/600.ttf') format('truetype');
+    font-weight: 600;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('/static/fonts/oracle/700.ttf');
+    src: local('Oracle Sans Bold'), local('OracleSans-Bold'),
+        url('/static/fonts/oracle/700.ttf') format('truetype');
+    font-weight: 700;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('/static/fonts/oracle/800.ttf');
+    src: local('Oracle Sans Bold'), local('OracleSans-Bold'),
+        url('/static/fonts/oracle/800.ttf') format('truetype');
+    font-weight: 800;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('/static/fonts/oracle/900.ttf');
+    src: local('Oracle Sans Bold'), local('OracleSans-Bold'),
+        url('/static/fonts/oracle/900.ttf') format('truetype');
+    font-weight: 900;
+    font-style: bold;
+}
